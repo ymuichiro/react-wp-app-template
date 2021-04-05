@@ -20,7 +20,7 @@ require('esbuild')
     target: 'es2015',
     platform: 'browser',
     entryPoints: ['src/App.tsx'],
-    outdir: 'public',
+    outdir: 'public/js',
     color: true,
     bundle: true,
     minify: false,
