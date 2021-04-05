@@ -19,6 +19,7 @@ React と Material-UI による Web 開発を行う際のテンプレート。
     - 2021/02/24：WebpackよりESBuildに変更
     - 2021/03/28：一部関数をパッケージ"ts-utility","react-toolkit"として外だし
     - 2021/04/05：esbuild単体では不具合が生じる場合がある為、開発時ESBuild,本番時Webpackの構成に修正
+    - 2021/04/06：Reduxを追加
 
 ## バンドル構成
 
