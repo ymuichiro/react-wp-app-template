@@ -2,7 +2,7 @@
  * ページ遷移時のパスを定義
  */
 export class RouterPath {
-  static ROOT = '/index';
+  static ROOT = '/';
   static SIGNIN = '/sign_in';
   static SIGNUP = '/sign_up';
   static PRIVACY_POLICY = '/privacypolicy_page';

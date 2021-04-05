@@ -5,7 +5,7 @@
       "name": "Launch Chrome",
       "request": "launch",
       "type": "pwa-chrome",
-      "url": "http://localhost:8080/index.html",
+      "url": "http://localhost:8080",
       "preLaunchTask": "npm: watch",
     },
   ]
