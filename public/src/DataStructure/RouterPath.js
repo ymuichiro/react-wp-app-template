@@ -4,7 +4,7 @@
 var RouterPath = /** @class */ (function () {
     function RouterPath() {
     }
-    RouterPath.ROOT = '/index';
+    RouterPath.ROOT = '/';
     RouterPath.SIGNIN = '/sign_in';
     RouterPath.SIGNUP = '/sign_up';
     RouterPath.PRIVACY_POLICY = '/privacypolicy_page';

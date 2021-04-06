@@ -7,7 +7,7 @@ import { PageRoot } from '../../Organisms/PageRoot';
 import { GlobalStyles } from '../../Styles/globalClsx';
 import { useHistory } from 'react-router-dom';
 import { RouterPath } from '../../DataStructure/RouterPath';
-import { LoadingCircle } from '../../Organisms/LoadCircle';
+import { LoadingCircle } from '../../Components/LoadCircle';
 import { Molding } from 'ts-utilities';
 
 export function MyPage() {
